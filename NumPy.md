@@ -14,7 +14,7 @@ Extracting an item by indexing, this will be represented by an **array-scalar** 
 >- An ndarray is a fixed-size multidimensional container of items of the same type and memory size.
 >- The type of the items is represented by a separate data-type object (`dtype`).
 >- The number of dimensions is defined by the `shape`, a tuple of N non-negative integers.
-![[Pasted image 20230306231956.png]]
+![[ndarray_structure.png]]
 
 Libraries such as Pandas and SciPy, Matplotlib are built on top of NumPy, such as machine learning ones as TensorFlow.
 
