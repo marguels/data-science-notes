@@ -7,7 +7,7 @@ Here's an example:
 
 pythonCopy code
 
-```py
+```python
 # dynamically typed variable
 x = "Hello, World!" print(x)
 # Output: Hello, World!
@@ -76,7 +76,7 @@ Here's an example:
 
 pythonCopy code
 
-```py
+```python
 # dynamically typed variable
 x = "Hello, World!" print(x)
 # Output: Hello, World!
